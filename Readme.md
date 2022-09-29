@@ -1,6 +1,6 @@
 <H1 style="margin-bottom: 50px">Tela de Login</H1>
 
-<img src="./assets/login.png" >
+<img src="./assets/login.png"  style="width: 200px, height: 100px">
 
 <ol>
 <li>Jonatas Andrade da Silva RA: 2201911</li>
